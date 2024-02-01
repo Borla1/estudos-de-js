@@ -1,6 +1,7 @@
 # estudos-de-js
 aula com Jorge sobre JavaScript
 - const/ let/variavel
+video aula sobre esse assunto https://www.youtube.com/watch?v=ZOx7iTnBqFQ
 
 // Existe dois tipos de variaves 
 
