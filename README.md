@@ -1,6 +1,7 @@
 # estudos-de-js
 aula com Jorge sobre JavaScript
 - const/ let/variavel
+
 // Existe dois tipos de variaves 
 //''/"" as duas funcionam do mesmo jeito
 let nome ="Bruno";
